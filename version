@@ -4,8 +4,8 @@
   "channel": "stable",
   "gz": "https://twilio-cli-prod.s3.amazonaws.com/twilio-v5.0.1/twilio-v5.0.1.tar.gz",
   "xz": "https://twilio-cli-prod.s3.amazonaws.com/twilio-v5.0.1/twilio-v5.0.1.tar.xz",
-  "sha256gz": "36466554ac73564a9d0f029e1c2aa16094c4c191e86e20922bed4917a09669f3",
-  "sha256xz": "f0f50fe40d4189534ad92b964fd126bfe99a1106b62fa90f7ff6517aa7596440",
+  "sha256gz": "c94cc634d12cf10b3c1c074b3d07f246a514a262f3836369c97c13dfd314093c",
+  "sha256xz": "953cb9c2d8468b2a5e20a33f23d16e602496809617a12c7ce733cb1376026a2f",
   "rollout": false,
   "node": {
     "compatible": ">=14.0.0",
