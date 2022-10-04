@@ -4,11 +4,11 @@
   "channel": "stable",
   "gz": "https://twilio-cli-prod.s3.amazonaws.com/twilio-v5.0.1/twilio-v5.0.1.tar.gz",
   "xz": "https://twilio-cli-prod.s3.amazonaws.com/twilio-v5.0.1/twilio-v5.0.1.tar.xz",
-  "sha256gz": "2862db500838051d27879f1484cb30c8b551b4066b982f561d53304750e2664a",
-  "sha256xz": "20395517a9d462f444f52ca5e43b1bf07db4e48fc99b0cc1ccb6fc3f67e6b403",
+  "sha256gz": "eb328f93ec7fc85363497d69d10f7786f5f5961d5188d0110e425670fef5edf8",
+  "sha256xz": "bad5673c29c3c7440ff08816eb4c180612e6436ac32322ede97c0eb7d88a8760",
   "rollout": false,
   "node": {
     "compatible": ">=14.0.0",
-    "recommended": "16.17.0"
+    "recommended": "16.17.1"
   }
 }
