@@ -4,8 +4,8 @@
   "baseDir": "twilio",
   "gz": "https://twilio-cli-prod.s3.amazonaws.com/twilio-v5.0.1/twilio-v5.0.1-win32-x86.tar.gz",
   "xz": "https://twilio-cli-prod.s3.amazonaws.com/twilio-v5.0.1/twilio-v5.0.1-win32-x86.tar.xz",
-  "sha256gz": "d0e7890a3213917a671aee08ec58201dd6084ca6e00642dc7fc5e2a7e85c6df3",
-  "sha256xz": "c0d4aa68acbd8514b444a9c29d021bab821897b757f6fd294640f0b910364c78",
+  "sha256gz": "72ae31cd5a6814265de6c689ffbdad6fc09459bd8aa4b1cc77dcdc92a2a5e54c",
+  "sha256xz": "16f2d81da1a6acdc2892edec090b6296f2a6ecca6d735b04007f08d4c4acdca7",
   "node": {
     "compatible": ">=14.0.0",
     "recommended": "16.17.1"
