@@ -448,29 +448,29 @@ Description: Unleash the power of Twilio from your command prompt. Visit https:/
 
 Package: twilio
 Architecture: amd64
-Version: 1.0.4-1
+Version: 1.0.5-1
 Priority: standard
 Section: main
 Maintainer: Twilio @twilio
-Filename: amd64/twilio_1.0.4-1_amd64.deb
-Size: 38077484
-MD5sum: 98199aec7ee266a08b93f5ccce69738b
-SHA1: 49a42a3a8351e3e667b479b6ac8473612296e5a3
-SHA256: ddfb0f5be1db96fe0379db0f8ddfe9a449628997531d7cdaedcba44727f4b8a2
-SHA512: 03867d82449e76b00dc9a4361fc45f26dde2a534032337e77a55f61ce11c1a568ac2973b45934003c11e69c428a0701602faa18aef28fc5528cde4c9691019d9
+Filename: amd64/twilio_1.0.5-1_amd64.deb
+Size: 38078196
+MD5sum: a48d569c3f7992816d48d5df46efb5f1
+SHA1: 872385aea81fcd653a2adca18847d3d8ce0cdab3
+SHA256: 094468e75e6b6adcf01e6811621e92a7eff6a6c4301d02323c9f0f644121d0e2
+SHA512: 3ac1fcfbdfd6a9b5a66c7205377405fdf3839f4d8d14ab1de90997a0bde82d14e49fd6a289413883cb063ee6a379f9ab02be66e4c724bb38c872216ef1e6d5b8
 Description: Unleash the power of Twilio from your command prompt. Visit https://twil.io/cli for documentation.
 
 Package: twilio
 Architecture: armel
-Version: 1.0.4-1
+Version: 1.0.5-1
 Priority: standard
 Section: main
 Maintainer: Twilio @twilio
-Filename: armel/twilio_1.0.4-1_armel.deb
-Size: 35074144
-MD5sum: bf7b935fd8820308a25b98beb20b697c
-SHA1: 9450f965727338dbb240e0bb49f38abb9e8a7b06
-SHA256: c891bab9b6094fb7325b3cc092ccddf2280dde1ca78a2ae6c1f419c4dfdcfdcd
-SHA512: 65d9fe69816a3bd3a7a8021fe291d0b20bb9bdf9476899e8cae3fd6983bb6dc4d81b024c3c2b1ae6a6f5b80c81e5fc5788890657905e74008874d67c7eaf7900
+Filename: armel/twilio_1.0.5-1_armel.deb
+Size: 35075280
+MD5sum: 297a57d7fa923cc5e556f3d973cf7bd9
+SHA1: bb01bb8e04083272484b10a4d79cdd327d25198f
+SHA256: 2430c1fd98d82523047def5a2e1adbb7bffc89dfdc9072a8a1b45845cdd41dde
+SHA512: 07d05fdcb96c9a9f56dab17b95a5ec878cece394a24e0dbb99735509accb04de1f671a18f14de0dfd49019917c259665b5f895f59a854ac57c070dd9c9dce883
 Description: Unleash the power of Twilio from your command prompt. Visit https://twil.io/cli for documentation.
 
