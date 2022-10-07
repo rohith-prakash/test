@@ -15,5 +15,5 @@ jobs:
         with:
           git-config-name: rohith-prakash 
           git-config-email: rohithprakashklm@gmail.com
-          folder: test
+          folder: ~/work/test
         
