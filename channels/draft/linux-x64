@@ -1,0 +1,13 @@
+{
+  "version": "1.0.9-draft.1.07376db",
+  "channel": "draft",
+  "baseDir": "twilio",
+  "gz": "https://rohith-prakash.github.io/test/channels/draft/twilio-v1.0.9-draft.1/twilio-v1.0.9-draft.1-linux-x64.tar.gz",
+  "xz": "https://rohith-prakash.github.io/test/channels/draft/twilio-v1.0.9-draft.1/twilio-v1.0.9-draft.1-linux-x64.tar.xz",
+  "sha256gz": "7e4ec4fddec62489935507ae6fb61a51e049df9200ec3c96218ea86f60c78968",
+  "sha256xz": "4fc7c571f1abd0faf020db02a9ac5b117727c298437c07e7d1b7d7f018291e9b",
+  "node": {
+    "compatible": ">=14.0.0",
+    "recommended": "16.17.1"
+  }
+}
