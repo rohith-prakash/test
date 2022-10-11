@@ -644,29 +644,29 @@ Description: Unleash the power of Twilio from your command prompt. Visit https:/
 
 Package: twilio
 Architecture: amd64
-Version: 1.0.15-1
+Version: 1.0.16-1
 Priority: standard
 Section: main
 Maintainer: Twilio @twilio
-Filename: amd64/twilio_1.0.15-1_amd64.deb
-Size: 38078348
-MD5sum: c1d57d3811592c385141141fd8c1944d
-SHA1: 0a5ed1fd6e733977ca6e24fc46beb9d29ea3a94d
-SHA256: 544c492d1a339ac6cf30a3dcbbee83a1fe036531259487d87c4ca8a5a921b9f3
-SHA512: 25fae318d98b0db702e28a56bb95380d4882e4fbd667c00238d3a19e5130a1edf64dbe31d5648cc0c082d433153fec86b434517c9f10ffc1a4b06550addfcd94
+Filename: amd64/twilio_1.0.16-1_amd64.deb
+Size: 38078880
+MD5sum: 031954a2088badbecd49d1024d6b52fb
+SHA1: a4f1c2e9474b369ee05a878680c6912946f202cc
+SHA256: fa24fcf953e2e3f29fa3f35e6f68afff1b4cb10eb5c8d00b99b26702aa433868
+SHA512: d9f2c7fc097c7f59f6a399fd78056fb2ea6fb9e155ba42df122f1379a2be64eafde0020f414ba927dcfe3dab262d1cca42301dbcb5ccebd22213a8934e1418ab
 Description: Unleash the power of Twilio from your command prompt. Visit https://twil.io/cli for documentation.
 
 Package: twilio
 Architecture: armel
-Version: 1.0.15-1
+Version: 1.0.16-1
 Priority: standard
 Section: main
 Maintainer: Twilio @twilio
-Filename: armel/twilio_1.0.15-1_armel.deb
-Size: 35076568
-MD5sum: 84ae67eaa7a0002bf6ab50aa8e4b3306
-SHA1: b4bf3f8274aaf15fc5e7611d06b051fff927b904
-SHA256: 6f5bea364ed368005a1f8b1765594b5c8c6c71085d3ca6bd89c37f6787979edf
-SHA512: 6660f2c468e48edb38d56a41bafb2bc59939190102454f7d1374e44da16b6c5a852b52abfbd32b763b6707ad5ff0a091a2b9baa61c632de337de001e18599b87
+Filename: armel/twilio_1.0.16-1_armel.deb
+Size: 35076752
+MD5sum: 9c40875a65c057a43d1ef373c1da07ce
+SHA1: f3c10cea17ebd616f6a647015a437f0691fdb2ed
+SHA256: 95554e0853f8f71cb9e7b099d0625a752e295b4e36a574c8c11e6962c1977199
+SHA512: 66a4aed1b134ea31e0360954397d5f8dcced53d89b0a7dad996b149132ea76a6c2430d9828113312e757cc37ec4f8ae61c96a176685bb678d96de483a99a7908
 Description: Unleash the power of Twilio from your command prompt. Visit https://twil.io/cli for documentation.
 
