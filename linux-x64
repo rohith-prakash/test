@@ -1,11 +1,11 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.15",
   "channel": "stable",
   "baseDir": "twilio",
-  "gz": "https://rohith-prakash.github.io/test/twilio-v1.0.10/twilio-v1.0.10-linux-x64.tar.gz",
-  "xz": "https://rohith-prakash.github.io/test/twilio-v1.0.10/twilio-v1.0.10-linux-x64.tar.xz",
-  "sha256gz": "b5a48ab2f5a7bcc116ef0d50323e57cda2ac0ce4073fa285cf4eb80d6aa47c90",
-  "sha256xz": "46bdad7ea7b746c86b4c73757e94c00a88bb066cc9b09595b8376c2eabae6f51",
+  "gz": "https://rohith-prakash.github.io/test/twilio-v1.0.15/twilio-v1.0.15-linux-x64.tar.gz",
+  "xz": "https://rohith-prakash.github.io/test/twilio-v1.0.15/twilio-v1.0.15-linux-x64.tar.xz",
+  "sha256gz": "7f4359f021c3fd3604b8cadaf1b12003d71710c3d58bb6db749aa742ec23a9ce",
+  "sha256xz": "a4ce20482b3181e5c396f23f4c5013d16b9ae7d759ff54fa83616979f8952bf0",
   "node": {
     "compatible": ">=14.0.0",
     "recommended": "16.17.1"
