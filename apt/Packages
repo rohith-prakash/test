@@ -502,3 +502,31 @@ SHA256: 4a912b64c5e9fd1a98bbdbd79ae98350c2548ae507b77063872c9bad3ad5b772
 SHA512: 1fc0735e24d658468f88015abc8680a1f2509d4ededaba310388c134793eff72bb1242fb38917b5bb616bca7c988e17861ae4dfce47103de4812c00b71e2b1a9
 Description: Unleash the power of Twilio from your command prompt. Visit https://twil.io/cli for documentation.
 
+Package: twilio
+Architecture: amd64
+Version: 5.3.20-1
+Priority: standard
+Section: main
+Maintainer: Twilio @twilio
+Filename: amd64/twilio_5.3.20-1_amd64.deb
+Size: 38079724
+MD5sum: ddd80e3ed94fb26c89c712ac75a0acdc
+SHA1: e53d769f232cec38fb370f9ab62321990da65665
+SHA256: 102422e5841f8643fe398a9880d26d0f8beb7a07df3fd322ad778dfa4b67184c
+SHA512: 05ba4fbe1af3f649ca64780355f3ab40434fb1eaa745e2333d5f13fa1842ce22f4405ad45d15b80f74ebe4c94760b24f7cc6ca264a69dadba0233d4185db0b51
+Description: Unleash the power of Twilio from your command prompt. Visit https://twil.io/cli for documentation.
+
+Package: twilio
+Architecture: armel
+Version: 5.3.20-1
+Priority: standard
+Section: main
+Maintainer: Twilio @twilio
+Filename: armel/twilio_5.3.20-1_armel.deb
+Size: 35075156
+MD5sum: fff7ab9c7cdc7a77dcc1a649be88e47d
+SHA1: 1a3531011cdb1b574df72a8960ed8637813ae50b
+SHA256: 06cf3391a01f62bf0db094af2ebee1a6975b12d4817ff84ce4c16518471d776d
+SHA512: d8b0c31c7596806da1106ad12d0949fff48f5b6e9223cf60309d59b65dbbc624cbe449c13b7a937788c5b16a2db9acdf6291e636b5a84427db8fbceb8471945a
+Description: Unleash the power of Twilio from your command prompt. Visit https://twil.io/cli for documentation.
+
